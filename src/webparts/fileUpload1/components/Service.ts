@@ -29,7 +29,7 @@ export default class Service{
     }
   
 
-
+    //To add the Items
     
     public async addItemToSPList(data:any,fileDetails:any):Promise<any>{
         try{
